@@ -1,3 +1,5 @@
+Descargue el repositorio
+
 Ejercicio 1 (Numeros Primos)
 - Ejecutar NumerosPrimos.jar (PruebaDeConocimientos/NumerosPrimos/out/artifacts/NumerosPrimos_jar/)
  en la consola.
